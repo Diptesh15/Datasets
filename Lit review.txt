@@ -15,3 +15,15 @@ Comercial Bank of Ethiopia. They use around 2 Lakhs of data rows along with
 about 11 attributes. Here, the SMOTE method was used in order  to balance the
 unbalanced dataset. They achieved accuracy of 79.32% with percision of 85.08% 
 followed by the recall of 78.19%[3]
+
+
+--------------------------------------------------------------------------------------------------------
+
+[1]Senthilnayaki B, Swetha M, Nivedha D. Customer Churn Prediction.International Advanced Research Journal in Science, 
+Engineering and Technology (IARJSET).
+
+[2]Khulood Ebrah1, Selma Elnasir. Churn Prediction Using Machine Learning and Recommendations Plans for Telecoms.
+Journal of Computer and Communications, 2019, 7, 33-53
+
+[3]Muhamed Hassen Seid, Michael Melese Woldeyohannis. Customer Churn Prediction Using Machine Learning: Commercial
+Bank of Ethiopia. ResearchGate Publications 
