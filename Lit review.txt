@@ -1,0 +1,17 @@
+Senthilnayaki B et al., conducted churn analysis using lazy leraning models. In
+their implementation various algorithms like Logistic Algorithm, Random Forest
+and KNN were included. They also compared the performance of the models through various aspects. They concluded
+that there should be lesser number of the features to include in order to 
+increase accuracy of the models and to obtain better performance.[1]
+
+Khulood Ebrah et al., performed comprehensive analysis for predicting churn 
+of the customers. In the implementation the model performance was measured
+by Area Under Curve (AUC). They used two benchmark datasets viz., 
+IBM Watson Dataset and cell2cell dataset. Varipous algorithms like Naive Bayes,
+decisoin Tree, SVM were in used[2]
+
+Muhamed Hassen Seid et al., done the churn predition for the customer for
+Comercial Bank of Ethiopia. They use around 2 Lakhs of data rows along with 
+about 11 attributes. Here, the SMOTE method was used in order  to balance the
+unbalanced dataset. They achieved accuracy of 79.32% with percision of 85.08% 
+followed by the recall of 78.19%[3]
